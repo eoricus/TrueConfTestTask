@@ -11,7 +11,7 @@
 Для установки библиотеки необходимо установить репозитории в ваш рабочий директорий.
 
 ```bash
-git clone https://github.com/eoricus/trueConfTestTask
+git clone https://github.com/eoricus/TrueConfTestTask
 ```
 
 Затем необходимо импортировать нужные библиотеки из директории:
