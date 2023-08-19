@@ -1,0 +1,28 @@
+{
+  "name": "trueconf-testwork",
+  "version": "1.0.0",
+  "description": "This is a library for working with geometric shapes",
+  "main": "_EXAMPLE.ts",
+  "repository": "github.com/eoricus/trueConfTestWork",
+  "author": "eoricus",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "transform": {
+      "^.+\\.ts$": "ts-jest"
+    }
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.6.2",
+    "@types/jest": "^1.22.19",
+    "@types/node": "^20.5.1",
+    "jest": "^29.6.2",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  }
+}
